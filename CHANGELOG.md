@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/find-app-store-bundle-ids/compare/v1.0.4...v1.0.5) (2024-05-13)
+
+
+### Bug Fixes
+
+* lock file maintenance ([18cc99b](https://github.com/dword-design/find-app-store-bundle-ids/commit/18cc99b731d26282c54f9dc21fed50acf0cf4b16))
+
 ## [1.0.4](https://github.com/dword-design/find-app-store-bundle-ids/compare/v1.0.3...v1.0.4) (2024-05-06)
 
 
