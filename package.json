@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@dword-design/base": "^11.0.11",
-    "@dword-design/base-config-cli": "^2.0.0"
+    "@dword-design/base-config-cli": "^3.0.0"
   },
   "engines": {
     "node": ">=18"
