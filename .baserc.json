@@ -1,1 +1,6 @@
-"@dword-design/cli"
+{
+  "depcheckConfig": {
+    "ignoreMatches": ["@playwright/test"]
+  },
+  "name": "@dword-design/cli"
+}
